@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioneonnect",
+        "uuid": 2904216,
+        "checksum": "1npfre"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
